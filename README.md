@@ -25,5 +25,13 @@ Incluye limpieza de datos, análisis exploratorio, segmentación de clientes y d
 ## Dataset
 [Olist Brazilian E-commerce - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+## Hallazgos principales
+
+1. **Crecimiento sostenido:** Las ventas crecieron durante todo 2017, con un pico en noviembre (~$1.2M) probablemente por Black Friday.
+2. **Categoría líder:** Health & Beauty es la categoría más rentable con ~$1.45M en ingresos totales.
+3. **Concentración geográfica:** São Paulo concentra el triple de ventas que Rio de Janeiro.
+4. **Entrega vs satisfacción:** Los pedidos con 1 estrella tardaron 19 días en promedio vs 10 días los de 5 estrellas.
+5. **Segmentación RFM:** El 34% de los clientes son Potenciales o Leales. Hay 13.978 clientes en riesgo recuperables.
+
 ## Estado
-🚧 En progreso — Semana 1: Exploración inicial
+✅ Completado
