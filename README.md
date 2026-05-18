@@ -33,5 +33,4 @@ Incluye limpieza de datos, análisis exploratorio, segmentación de clientes y d
 4. **Entrega vs satisfacción:** Los pedidos con 1 estrella tardaron 19 días en promedio vs 10 días los de 5 estrellas.
 5. **Segmentación RFM:** El 34% de los clientes son Potenciales o Leales. Hay 13.978 clientes en riesgo recuperables.
 
-## Estado
-✅ Completado
+## Finalizado
