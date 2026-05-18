@@ -12,6 +12,7 @@ Incluye limpieza de datos, análisis exploratorio, segmentación de clientes y d
 
 ## Herramientas utilizadas
 - Python (pandas, matplotlib, seaborn)
+- SQL (SQlite)
 - Power BI
 - GitHub
 
